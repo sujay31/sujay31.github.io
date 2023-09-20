@@ -9,6 +9,11 @@
   padding-top: 25px;
 }
 
+.scroll {
+  max-height: 100px;
+  overflow-y: auto;
+}
+
 .profile-pic {
   position: relative;
   max-width:130px;
